@@ -8,3 +8,4 @@ python-docx
 faiss-cpu
 python-dotenv
 unstructured
+sentence-transformers
